@@ -1,7 +1,4 @@
-# Hi there, I'm Anubhab Khanra 👋
-
-!Typing SVG
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Anubhab+Khanra+%F0%9F%91%8B)](https://git.io/typing-svg)
 I'm currently pursuing my B.E. (Hons.) in Computer Science at BITS Pilani - Hyderabad Campus. I have a keen interest in Machine Learning, Deep Learning, and Information Retrieval.
 
 ## 🌱 I'm currently learning
@@ -13,11 +10,6 @@ I'm currently pursuing my B.E. (Hons.) in Computer Science at BITS Pilani - Hyde
 - Developing machine learning models for practical applications
 - Creating browser extensions leveraging ML and NLP techniques
 - Implementing efficient information retrieval algorithms
-
-## 📫 How to reach me
-- Email: f20202144@hyderabad.bits-pilani.ac.in
-- LinkedIn: Anubhab Khanra
-- GitHub: Anubhab Khanra
 
 ## ⚡ Technical Skills
 - Languages: C, C++, Python3, Java, JavaScript, SQL
