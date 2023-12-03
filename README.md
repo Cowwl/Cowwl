@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cowwl&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cowwl&layout=compact&theme=radical" alt="Languages Used">
 </p>
 
 I'm currently pursuing my B.E. (Hons.) in Computer Science at BITS Pilani - Hyderabad Campus. I have a keen interest in Machine Learning, Deep Learning, and Information Retrieval.
